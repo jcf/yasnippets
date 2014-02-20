@@ -1,0 +1,4 @@
+#name: uuid
+#
+# --
+`(chomp-string (downcase (shell-command-to-string "uuidgen")))`$0
