@@ -1,0 +1,4 @@
+#name: now
+#
+# --
+`(format-time-string "%Y-%m-%dT%H:%M:%S%z" (current-time))`$0
