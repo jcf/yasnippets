@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name: begin_src
+#name: src
 # --
 #+begin_src ${1:emacs-lisp}
   $0
