@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: add
+# key: a
+# binding: direct-keybinding
+# --
+ADD ${1:host} ${2:guest}$0

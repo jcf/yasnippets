@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: run
+# key: r
+# binding: direct-keybinding
+# --
+RUN $0

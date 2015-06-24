@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: expose
+# key: en
+# binding: direct-keybinding
+# --
+ENTRYPOINT $0

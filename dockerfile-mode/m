@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: maintainer
+# key: m
+# binding: direct-keybinding
+# --
+MAINTAINER "${1:`user-full-name` <`user-mail-address`>}"$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: from
+# key: f
+# binding: direct-keybinding
+# --
+FROM $0
