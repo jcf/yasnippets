@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: component
-# key: component
+# name: defcom
+# key: defcom
 # --
 (defrecord ${1:Component} [$2]
   component/Lifecycle
